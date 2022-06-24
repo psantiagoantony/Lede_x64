@@ -8,3 +8,5 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+src-git kiddin9 https://github.com/kiddin9/openwrt-packages.git
+src-git bypass https://github.com/kiddin9/openwrt-bypass.git
